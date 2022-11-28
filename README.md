@@ -1,4 +1,9 @@
-### Hi there 👋
+### Welcome! 👋
+
+I am currently a Web Tracking Analyst at @Hagens and study information systems at the University of São Paulo - Brazil 
+
+**About me**
+
 
 <!--
 **ivbpinheiro/ivbpinheiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
