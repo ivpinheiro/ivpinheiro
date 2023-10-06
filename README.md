@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0077FF&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B641F5&height=120&section=header"/>
 
 ### Hi there 👋
 
@@ -61,4 +61,4 @@ My GitHub profile is a testament to my dedication to disseminating knowledge thr
 <br>
 </div>
 </div> 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0077FF&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B641F5&height=120&section=footer"/>
