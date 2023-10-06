@@ -3,7 +3,7 @@
 ### Hi there 👋
 
 <div align="justify">
-<p>I'm Ivan Barbosa Pinheiro, a chemistry graduate from <a href="https://www5.iqsc.usp.br/" style="color:B641F5;">IQSC-USP<a>, driven by a lifelong passion for technology. My progression from a foundational Python course to admission into the Information Systems program at <a href="https://www.icmc.usp.br/" style="color:B641F5;">ICMC-USP</a> has significantly enhanced my computational proficiency. Throughout this journey, my active engagement in electrochemistry research unveiled a innate aptitude for data manipulation and analysis. This revelation propelled me towards the realms of data science and data engineering, enabling me to amalgamate my technological enthusiasm with proficient data skills.
+<p>I'm Ivan Barbosa Pinheiro, a chemistry graduate from <a href="https://www5.iqsc.usp.br/" style="color:#B641F5;">IQSC-USP<a>, driven by a lifelong passion for technology. My progression from a foundational Python course to admission into the Information Systems program at <a href="https://www.icmc.usp.br/" style="color:#B641F5;">ICMC-USP</a> has significantly enhanced my computational proficiency. Throughout this journey, my active engagement in electrochemistry research unveiled a innate aptitude for data manipulation and analysis. This revelation propelled me towards the realms of data science and data engineering, enabling me to amalgamate my technological enthusiasm with proficient data skills.
 </p>
 <p>
 My GitHub profile is a testament to my dedication to disseminating knowledge through meticulously documented projects. I invite you to explore my repositories for valuable insights that can enrich your own pursuits.
