@@ -3,7 +3,7 @@
 ### Hi there 👋
 
 <div align="justify">
-<p>I'm Ivan Barbosa Pinheiro, a chemistry graduate from <a href="https://www5.iqsc.usp.br/">IQSC-USP<a>, driven by a lifelong passion for technology. My progression from a foundational Python course to admission into the Information Systems program at <a href="https://www.icmc.usp.br/">ICMC-USP</a> has significantly enhanced my computational proficiency. Throughout this journey, my active engagement in electrochemistry research unveiled a innate aptitude for data manipulation and analysis. This revelation propelled me towards the realms of data science and data engineering, enabling me to amalgamate my technological enthusiasm with proficient data skills.
+<p>I'm Ivan Barbosa Pinheiro, a chemistry graduate from <a href="https://www5.iqsc.usp.br/" style="color:B641F5;">IQSC-USP<a>, driven by a lifelong passion for technology. My progression from a foundational Python course to admission into the Information Systems program at <a href="https://www.icmc.usp.br/" style="color:B641F5;">ICMC-USP</a> has significantly enhanced my computational proficiency. Throughout this journey, my active engagement in electrochemistry research unveiled a innate aptitude for data manipulation and analysis. This revelation propelled me towards the realms of data science and data engineering, enabling me to amalgamate my technological enthusiasm with proficient data skills.
 </p>
 <p>
 My GitHub profile is a testament to my dedication to disseminating knowledge through meticulously documented projects. I invite you to explore my repositories for valuable insights that can enrich your own pursuits.
@@ -21,7 +21,7 @@ My GitHub profile is a testament to my dedication to disseminating knowledge thr
 </div>
           
 <div style="display: inline_block" align="center"><br>
-  <h2> Technologies used </h2>
+  <h2 style="color:B641F5;"> Technologies used </h2>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -38,7 +38,7 @@ My GitHub profile is a testament to my dedication to disseminating knowledge thr
 </div>
 
 <div style="display: inline_block" align="center"><br>
-<h2>Technology of interest</h2>  
+<h2 style="color:B641F5;">Technology of interest</h2>  
   <img align="center" alt="Numpy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
   <img align="center" alt="Flask" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg">
   <img align="center" alt="Apache" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg">
@@ -49,16 +49,16 @@ My GitHub profile is a testament to my dedication to disseminating knowledge thr
 </div>
 
 <div style="display: inline_block" align="center"><br>
-  <h2> Contact </h2>
+  <h2 style="color:B641F5;"> Contact </h2>
   <a href="https://www.linkedin.com/in/ivanpinheiro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>    
 </div> 
 
 <div style="display: inline_block" align="center"><br>
-<h2>Page Stats</h2>  
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{ivbpinheiro}/count.svg" /></p> 
-<br>
-</div>
+  <h2 style="color:B641F5;">Page Stats</h2>  
+  <div align="center">
+    <br><p align="centre"><b>Visitors Count</b></p>  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{ivbpinheiro}/count.svg" /></p> 
+  <br>
+  </div>
 </div> 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B641F5&height=120&section=footer"/>
