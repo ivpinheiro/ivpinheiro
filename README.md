@@ -15,9 +15,9 @@ My GitHub profile is a testament to my dedication to disseminating knowledge thr
 - 🌎  Based in São Carlos, Brazil
 - 👩‍💻  More about me: 
 <div align="center">
-  <a href="https://github.com/ivbpinheiro">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ivbpinheiro&show_icons=true&theme=dark#gh-dark-mode-only&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivbpinheiro&layout=compact&langs_count=7&theme=dark#gh-dark-mode-only"/>
+  <a href="https://github.com/ivpinheiro">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ivpinheiro&show_icons=true&theme=dark#gh-dark-mode-only&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivpinheiro&layout=compact&langs_count=7&theme=dark#gh-dark-mode-only"/>
 </div>
           
 <div style="display: inline_block" align="center"><br>
@@ -57,7 +57,7 @@ My GitHub profile is a testament to my dedication to disseminating knowledge thr
   <h2 style="color:B641F5;">Page Stats</h2>  
   <div align="center">
     <br><p align="centre"><b>Visitors Count</b></p>  
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{ivbpinheiro}/count.svg" /></p> 
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{ivpinheiro}/count.svg" /></p> 
   <br>
   </div>
 </div> 
