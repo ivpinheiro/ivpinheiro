@@ -10,7 +10,7 @@ My GitHub profile is a testament to my dedication to disseminating knowledge thr
 </p>
 </div>
 
-- 💻  Data Engineer & Information Systems Student, Former Food Chemist
+- 💻  Analytics Engineer & Information Systems Student, Former Food Chemist
 - 🏢  Currently working for [Hagens](https://hagens.com.br/)
 - 🌎  Based in São Carlos, Brazil
 - 👩‍💻  More about me: 
