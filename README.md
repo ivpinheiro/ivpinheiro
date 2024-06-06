@@ -11,7 +11,7 @@ My GitHub profile is a testament to my dedication to disseminating knowledge thr
 </div>
 
 - 💻  Analytics Engineer & Information Systems Student, Former Food Chemist
-- 🏢  Currently working for [Hagens](https://hagens.com.br/)
+- 🏢  Currently working for [Cubos Academy](https://cubos.academy/)
 - 🌎  Based in São Carlos, Brazil
 - 👩‍💻  More about me: 
 <div align="center">
