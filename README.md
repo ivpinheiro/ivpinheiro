@@ -30,6 +30,28 @@ I work with Python, SQL, PySpark, Databricks, and GCP to build scalable data pro
 
 ---
 
+### ⚡ GitHub Stats
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ivpinheiro&theme=github&hide_border=true&bg_color=0D1117&title_color=B641F5&text_color=FFFFFF&icon_color=B641F5" width="100%">
+</div>
+
+---
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ivpinheiro&theme=github&hide_border=true&bg_color=0D1117&title_color=B641F5&text_color=FFFFFF&icon_color=B641F5" width="49%">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ivpinheiro&theme=github&hide_border=true&bg_color=0D1117&title_color=B641F5&text_color=FFFFFF&icon_color=B641F5" width="49%">
+</p>
+
+---
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ivpinheiro&theme=github&hide_border=true&bg_color=0D1117&title_color=B641F5&text_color=FFFFFF&icon_color=B641F5" width="49%">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ivpinheiro&theme=github&hide_border=true&bg_color=0D1117&title_color=B641F5&text_color=FFFFFF&icon_color=B641F5&utcOffset=-3" width="49%">
+</p>
+
+---
+
 ### 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivanpinheiro/)
