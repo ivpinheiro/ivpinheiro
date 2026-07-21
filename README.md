@@ -2,63 +2,37 @@
 
 ### Hi there 👋
 
-<div align="justify">
-<p>I'm Ivan Barbosa Pinheiro, a chemistry graduate from <a href="https://www5.iqsc.usp.br/" style="color:#B641F5;">IQSC-USP<a>, driven by a lifelong passion for technology. My progression from a foundational Python course to admission into the Information Systems program at <a href="https://www.icmc.usp.br/" style="color:#B641F5;">ICMC-USP</a> has significantly enhanced my computational proficiency. Throughout this journey, my active engagement in electrochemistry research unveiled a innate aptitude for data manipulation and analysis. This revelation propelled me towards the realms of data science and data engineering, enabling me to amalgamate my technological enthusiasm with proficient data skills.
-</p>
-<p>
-My GitHub profile is a testament to my dedication to disseminating knowledge through meticulously documented projects. I invite you to explore my repositories for valuable insights that can enrich your own pursuits.
-</p>
-</div>
+I'm Ivan Barbosa Pinheiro, Data Analytics Coordinator at Ânima Educação, with over 5 years of experience in the Data field. My journey began as a chemistry graduate from IQSC-USP, where my engagement in electrochemistry research unveiled an aptitude for data manipulation and analysis. This realization propelled me toward data science and engineering, leading me to pursue Information Systems at ICMC-USP.
 
-- 💻  Analytics Engineer & Information Systems Student, Former Food Chemist
-- 🏢  Currently working for [Ânima Educação](https://animaeducacao.com.br/)
-- 🌎  Based in São Carlos, Brazil
-- 👩‍💻  More about me: 
-<div align="center">
-  <a href="https://github.com/ivpinheiro">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ivpinheiro&show_icons=true&theme=dark#gh-dark-mode-only&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivpinheiro&layout=compact&langs_count=7&theme=dark#gh-dark-mode-only"/>
-</div>
-          
-<div style="display: inline_block" align="center"><br>
-  <h2 style="color:B641F5;"> Technologies used </h2>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">  
-  <br><br> 
-  <img align="center" alt="Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
-  <img align="center" alt="VueJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
-  <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"> 
-  <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">  
-  <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">  
-</div>
+Currently, I lead high-impact projects in Web Analytics, including offline conversions for SA360 and real-time observability for the tracking layer. I have restructured GA4 and GTM implementations, reducing tags by over 80% and improving Core Web Vitals. I also led the migration from Funnel to Airbyte on GCP and the expansion of analytics infrastructure to 18 new brand portals.
 
-<div style="display: inline_block" align="center"><br>
-<h2 style="color:B641F5;">Technology of interest</h2>  
-  <img align="center" alt="Numpy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
-  <img align="center" alt="Flask" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg">
-  <img align="center" alt="Apache" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg">
-  <img align="center" alt="AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
-  <br><br> 
-  <img align="center" alt="GCP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
-</div>
+I work with Python, SQL, PySpark, Databricks, and GCP to build scalable data products, collaborating with Marketing, Growth, and Finance teams. My mission is to transform data into accessible, reusable, and business-driven assets.
 
-<div style="display: inline_block" align="center"><br>
-  <h2 style="color:B641F5;"> Contact </h2>
-  <a href="https://www.linkedin.com/in/ivanpinheiro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>    
-</div> 
+---
 
-<div style="display: inline_block" align="center"><br>
-  <h2 style="color:B641F5;">Page Stats</h2>  
-  <div align="center">
-    <br><p align="centre"><b>Visitors Count</b></p>  
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{ivpinheiro}/count.svg" /></p> 
-  <br>
-  </div>
-</div> 
+### 🛠️ Technologies
+
+`Python` `PySpark` `SQL` `Databricks` `GCP` `AWS` `Docker` `Kubernetes` `JavaScript` `TypeScript` `Vue.js` `Flask` `NestJS` `GTM` `Linux` `Git` `n8n`
+
+---
+
+### 🔭 Current Focus
+
+- Offline conversions for SA360 with enriched GA4 data
+- Real-time observability for tracking layer monitoring
+- Data architecture governance on Databricks
+- Scalable data products for Marketing, Growth, and Finance
+- Marketing Mix Modeling (MMM) for campaign performance measurement
+- Medallion Architecture (Bronze, Silver, Gold) for data lakehouse organization
+- Kubernetes (K8s) and cloud-native infrastructure orchestration
+- Serverless architectures and event-driven messaging with Pub/Sub
+- Infrastructure as Code with Terraform for cloud resource management
+
+---
+
+### 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivanpinheiro/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ivpinheiro)
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B641F5&height=120&section=footer"/>
