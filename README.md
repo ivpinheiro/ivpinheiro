@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B641F5&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=300&color=B641F5&text=Ivan%20Pinheiro&section=header&reversal=true&textBg=false&fontAlign=50&animation=blink&strokeWidth=0&rotate=0&fontColor=FFFFFF&descAlign=90&descAlignY=30&descSize=100&desc=🛠️"/>
 
 ### Hi there 👋
 
